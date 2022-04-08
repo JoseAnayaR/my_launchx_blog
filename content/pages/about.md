@@ -9,7 +9,7 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Mi nombre es José Manuel Anaya Ruvalcaba, soy de Gdl Jalisco.
+> **Mi nombre es José Manuel Anaya Ruvalcaba, soy de Gdl Jalisco.**
 
 ***
 
