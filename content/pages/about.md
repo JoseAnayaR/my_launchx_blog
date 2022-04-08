@@ -13,7 +13,8 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 
 ***
 
-###Esta es mi pequeña pero hermosa familia.
+Esta es mi pequeña pero hermosa familia.
+----------------------------------------
 
 Mi esposa se llama Naomy y esa pequeña es mi hija, su nombre es Dafne.
 
