@@ -13,11 +13,11 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 
 ***
 
-####Esta es mi pequeña pero **hermosa** familia.
+###Esta es mi pequeña pero hermosa familia.
 
 Mi esposa se llama Naomy y esa pequeña es mi hija, su nombre es Dafne.
 
-![Mi pequeña y hermosa familia] (my_launchx_blog/docs/images/familia.jpg)
+  ![Mi pequeña y hermosa familia](/docs/images/familia.jpg)
 
 ***
 
